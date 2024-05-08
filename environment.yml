@@ -1,0 +1,12 @@
+name:  opened
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - statsmodels
+  - ipywidgets
+  - pip:
+    - pyserial
+  - keyboard
+  - conda-forge::jupyterlab

@@ -1,0 +1,9 @@
+jupyter-book
+matplotlib
+numpy
+pyserial
+keyboard
+python==3.11
+scipy
+statsmodels
+ipywidgets
